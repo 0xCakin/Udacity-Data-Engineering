@@ -21,16 +21,16 @@ In this project, ETL pipeline has been created to read the given csv file and im
 - Design the queries to be implemented
 - Create the tables based on the queries
 
-[Project 3 - Data Warehouse](https://github.com/canerakin111/Udacity-Data-Engineering/tree/master/3_Data_Warehouse)	
+[Project 3 - Cloud Data Warehouses](https://github.com/canerakin111/Udacity-Data-Engineering/tree/master/3_Data_Warehouse)	
 
 A music streaming startup, Sparkify would like to move their process to cloud services. The data resided in S3 as a JSON file and should be transfered in Amazon Redshift using ETL pipeline. This will help analytics team to collaborate better and continue finding insights in the user activity.
 
-[Project 4 - ETL Pipeline](https://github.com/canerakin111/Udacity-Data-Engineering/tree/master/5_Airflow_data_pipelines)
+[Project 4 - Data Lakes with Spark](https://github.com/canerakin111/Udacity-Data-Engineering/tree/master/4_Data_Lake)
 
 In this project, data has been extracted from a AWS S3 bucket. The data processed, fact and dimension tables have been created. The final output has been load back into S3. This process has been deployed in Spark session.
 
 
-[Project 5 - Airflow Data Pipelines](https://github.com/canerakin111/Udacity-Data-Engineering/blob/master/5_Airflow_data_pipelines)
+[Project 5 - Data Pipelines with Airflow](https://github.com/canerakin111/Udacity-Data-Engineering/tree/master/5_Airflow_data_pipelines)
 
 In this project, ETL pipeline is built on cloud using AWS Redshift and populated via Apache Airflow. The star-schema was used for dimensional model. The data consists of listening event logs from a music app Sparkify and data about songs, artists, and users.
 The process looks like the following:
