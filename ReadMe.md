@@ -43,4 +43,4 @@ The process looks like the following:
 
 This project aims to analyze immigration events using I94 Immigration data and city temperature data. Joining these two datasets will provide us a wider range of motion to complete this task.
 
-![Nanodegree](https://github.com/canerakin111/Udacity_Predictive_Analysis/blob/master/Nanodegree_predictive_analytics.jpg)
+![Nanodegree](https://github.com/canerakin111/Udacity-Data-Engineering/blob/master/nanodegree_dataEngineering.jpg)
