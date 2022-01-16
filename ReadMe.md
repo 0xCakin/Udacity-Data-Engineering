@@ -1,4 +1,4 @@
-# Predictive Analytics for Business Nanodegree Program - Bertelsmann Technology Scholarship
+# Data Engineering Nanodegree Program
 
 This nanodegree program is designed to learn data model architecture, data lakes and warehouses, data pipeline automation and working with massive datasets.
 
